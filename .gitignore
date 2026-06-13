@@ -1,5 +1,5 @@
 build/
 run/
+*.jar
 .gradle/
-.idea/
-*.log
+.eclipse/
