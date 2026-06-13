@@ -1,0 +1,8 @@
+/Rsreset Renkyu27
+/rsreset
+/rsreset Renkyu27
+/rsreset
+/rsreset Renkyu27
+/rsreset Dev
+/gamemode survival
+/rsreset Dev
